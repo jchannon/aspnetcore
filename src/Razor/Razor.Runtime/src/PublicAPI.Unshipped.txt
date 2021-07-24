@@ -1,1 +1,4 @@
 #nullable enable
+Microsoft.AspNetCore.Razor.Hosting.RazorFileIdentifierAttribute
+~Microsoft.AspNetCore.Razor.Hosting.RazorFileIdentifierAttribute.Identifier.get -> string
+~Microsoft.AspNetCore.Razor.Hosting.RazorFileIdentifierAttribute.RazorFileIdentifierAttribute(string identifier) -> void
